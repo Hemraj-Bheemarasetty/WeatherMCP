@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayx8FnLDMaY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bheem\\source\\repos\\WeatherMCP\\WeatherMCP\\WeatherMCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bheem\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.11.0\\microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512",
+    "C:\\Users\\bheem\\.nuget\\packages\\modelcontextprotocol\\2.4.0\\modelcontextprotocol.2.4.0.nupkg.sha512",
+    "C:\\Users\\bheem\\.nuget\\packages\\modelcontextprotocol.aspnetcore\\2.4.0\\modelcontextprotocol.aspnetcore.2.4.0.nupkg.sha512",
+    "C:\\Users\\bheem\\.nuget\\packages\\modelcontextprotocol.core\\2.4.0\\modelcontextprotocol.core.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
